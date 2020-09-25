@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaan-Er" alt="Kaan-Er" /> </p>
 
-- 📝 My website is [https://kaanerdev.com](https://kaanerdev.com)
+- 📝 My web site is [https://kaanerdev.com](https://kaanerdev.com)
 
 - 💬 Ask me about **java, angular, spring, hibernate, jpa, rest services, mongodb, postgreSQL, mysql, css, bootstrap, js**
 
@@ -21,4 +21,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kaan--er/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kaan--er/" height="30" width="30" /></a>
+  <a href="https://twitter.com/kaaner_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/kaaner_dev" height="30" width="30" /></a>
 </p>
