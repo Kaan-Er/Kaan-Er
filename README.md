@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaan-Er" alt="Kaan-Er" /> </p>
 
-- 📝 My web site is [https://kaanerdev.com](https://kaanerdev.com)
+- 📝 My web site is [http://kaanerdev.com](https://kaanerdev.com)
 
 - 💬 Ask me about **java, angular, spring, hibernate, jpa, rest services, mongodb, postgreSQL, mysql, css, bootstrap, js**
 
