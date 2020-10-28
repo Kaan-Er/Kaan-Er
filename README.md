@@ -5,7 +5,7 @@
 
 - 📝 My web site is [http://www.kaanerdev.com/](http://www.kaanerdev.com/)
 
-- 💬 Ask me about **java,ruby and rails, angular, spring, hibernate, jpa, rest services, mongodb, postgreSQL, mysql, css, bootstrap, js**
+- 💬 Ask me about **java, ruby and rails, angular, spring, hibernate, jpa, rest services, mongodb, postgreSQL, mysql, css, bootstrap, js**
 
 - 📫 How to reach me **kaanerdev@gmail.com**
 
