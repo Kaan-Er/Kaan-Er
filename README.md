@@ -5,7 +5,7 @@
 
 - 📝 My web site is [https://kaaner.netlify.app/](https://kaaner.netlify.app/)
 
-- 💬 Ask me about **java, ruby on rails, angular, spring, hibernate, jpa, rest services, mongodb, postgreSQL, mysql, css, bootstrap, js**
+- 💬 Ask me about **java, ruby on rails, angular, react, spring, hibernate, jpa, rest services, mongodb, postgreSQL, mysql, css, bootstrap, js**
 
 - 📫 How to reach me **kaanerdev@gmail.com**
 
