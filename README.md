@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaan-Er" alt="Kaan-Er" /> </p>
 
 
-- 💬 Ask me about ** javascript, react, react native **
+- 💬 Ask me about **javascript, nodejs, react, react native**
 
-- 📫 How to reach me **kaanerdev@gmail.com**
+- 📫 You can reach me => **kaanerdev@gmail.com**
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/> 
