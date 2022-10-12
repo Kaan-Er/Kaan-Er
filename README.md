@@ -8,6 +8,8 @@
 
 - 📫 You can reach me => **kaanerdev@gmail.com**
 
+- 🧑🏻‍💻 Also you can visit my website => https://kaaner.me  
+
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/erkaan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kaan--er/" height="40" width="150" /></a>   
