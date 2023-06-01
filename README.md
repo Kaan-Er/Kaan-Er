@@ -8,7 +8,7 @@
 
 - 📫 You can reach me => **kaanerdev@gmail.com**
 
-- 🧑🏻‍💻 Also you can visit my website => https://kaaner.me  
+- 🧑🏻‍💻 Also you can visit my website => https://kaaner.dev  
 
 <hr>
 <p align="center">
