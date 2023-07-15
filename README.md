@@ -1,5 +1,5 @@
 # <h1 align="center">Yo what's up! 👋 I'm Kaan</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaan-Er" alt="Kaan-Er" /> </p>
 
